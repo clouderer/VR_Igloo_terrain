@@ -37,7 +37,7 @@ PC VR is recommended for the best experience and a VR headset is required for fu
 1. Download `Igloo.zip`.
 2. Extract the archive.
 3. Connect and configure your VR headset.
-4. Run `Igloo.exe`.
+4. Run `TheOneHopefully.exe`.
 
 ## Developer Documentation
 
